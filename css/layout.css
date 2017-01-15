@@ -215,9 +215,9 @@ ul#nav li.current a { color: #F06000; }
    height: 120px;
    border-radius: 100%;
 }
-#about .contact-details { width: 41.66667%; }
+#about .contact-details { width: 58.33333%; }
 #about .download {
-   width: 58.33333%;
+   width: 41.66667%;
    padding-top: 6px;
 }
 #about .main-col { padding-right: 5%; }
