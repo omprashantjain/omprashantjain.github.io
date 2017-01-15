@@ -338,73 +338,76 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.linuxunix {
-  	width: 90%;
+.android {
+  	width: 80%;
   	-moz-animation: linuxunix 2s ease;
   	-webkit-animation: linuxunix 2s ease;
 }
-.aws {
+.java {
   	width: 85%;
   	-moz-animation: aws 2s ease;
   	-webkit-animation: aws 2s ease;
 }
-.chef {
-  	width: 83%;
+.git {
+  	width: 85%;
   	-moz-animation: chef 2s ease;
   	-webkit-animation: chef 2s ease;
 }
-.ansible {
-    width: 53%;
+.c {
+    width: 75%;
     -moz-animation: ansible 2s ease;
     -webkit-animation: ansible 2s ease;
 }
-
-.nosqldb {
+.cpp {
   	width: 70%;
   	-moz-animation: nosqldb 2s ease;
   	-webkit-animation: nosqldb 2s ease;
 }
-.shellscript {
-  	width: 90%;
+.javascript {
+  	width: 70%;
   	-moz-animation: shellscript 2s ease;
   	-webkit-animation: shellscript 2s ease;
 }
-.python {
-  	width: 40%;
+.nosql {
+  	width: 75%;
   	-moz-animation: python 2s ease;
   	-webkit-animation: python 2s ease;
 }
-
-.apachetomcat {
-    width: 90%;
+.ruby {
+    width: 60%;
     -moz-animation: apachetomcat 2s ease;
     -webkit-animation: apachetomcat 2s ease;
 }
 
-.networking {
-    width: 70%;
+.sqlite {
+    width: 85%;
     -moz-animation: networking 2s ease;
     -webkit-animation: networking 2s ease;
 }
 
-.dns {
-    width: 80%;
+.mysql {
+    width: 65%;
     -moz-animation: dns 2s ease;
     -webkit-animation: dns 2s ease;
 }
 
-.monitroing {
-    width: 85%;
+.firebase {
+    width: 75%;
     -moz-animation: monitroing 2s ease;
     -webkit-animation: monitroing 2s ease;
 }
 
-.logmgmt {
-    width: 85%;
+.html {
+    width: 60%;
     -moz-animation: logmgmt 2s ease;
     -webkit-animation: logmgmt 2s ease;
 }
 
+.tcpip {
+    width: 75%;
+    -moz-animation: logmgmt 2s ease;
+    -webkit-animation: logmgmt 2s ease;
+}
 
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
