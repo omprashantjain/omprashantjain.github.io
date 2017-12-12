@@ -348,6 +348,11 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: aws 2s ease;
   	-webkit-animation: aws 2s ease;
 }
+.rx {
+    width: 80%;
+    -moz-animation: aws 2s ease;
+    -webkit-animation: aws 2s ease;
+}
 .git {
   	width: 85%;
   	-moz-animation: chef 2s ease;
