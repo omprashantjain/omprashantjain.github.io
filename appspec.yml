@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /tmp/var/www/codedeploy-ysharma-test/
+    destination: /tmp/var/www/prashantjain_me/
 hooks:
   BeforeInstall:
      - location: scripts/clean_source.sh
